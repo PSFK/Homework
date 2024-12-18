@@ -1,5 +1,5 @@
 def calculator():
-    print("Добро пожаловать в калькулятор!")
+    print("Это калькулятор.")
 
     while True:
         try:
